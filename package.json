@@ -1,0 +1,19 @@
+{
+  "name": "dashboards",
+  "version": "0.0.1",
+  "description": "Need a web server to create a dinamic web page to present information from a repo and update based on git, the propiertes, query mysql, mssql to match information and in the future, require to update metadata on the repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loaizara/dashboards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loaizara/dashboards/issues"
+  },
+  "homepage": "https://github.com/loaizara/dashboards#readme"
+}
